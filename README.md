@@ -6,7 +6,7 @@
 
 `git clone https://github.com/connorads/brew-packages`
 
-## Add `Brewfile` path to `.zshrc`
+## Add `Brewfile` path to `.zshrc` or `.zshenv`
 
 `export HOMEBREW_BREWFILE=/path/to/Brewfile`
 
