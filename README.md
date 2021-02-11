@@ -6,9 +6,9 @@
 
 `git clone https://github.com/connorads/brew-packages`
 
-## Add `Brewfile` path to `.zshrc` or `.zshenv`
+## Create symlink to downloaded `Brewfile` from default `Brewfile` path
 
-`export HOMEBREW_BREWFILE=/path/to/Brewfile`
+`ln -s ~/path/to/repo/brew-packages/Brewfile ~/Brewfile`
 
 ## Install packages from `Brewfile`
 
