@@ -57,3 +57,4 @@ cask "webstorm"
 cask "zappy"
 cask "zoom"
 mas "RunCat", id: 1429033973
+mas "Xcode", id: 497799835
