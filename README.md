@@ -4,16 +4,24 @@
 
 ## Download `Brewfile`
 
-`git clone https://github.com/connorads/brew-packages`
+```sh
+git clone https://github.com/connorads/brew-packages
+```
 
 ## Create symlink to downloaded `Brewfile` from default `Brewfile` path
 
-`ln -s ~/path/to/repo/brew-packages/Brewfile ~/Brewfile`
+```sh
+ln -s ~/path/to/repo/brew-packages/Brewfile ~/Brewfile
+```
 
 ## Install packages from `Brewfile`
 
-`brew bundle install`
+```sh
+brew bundle install
+```
 
 ## Update `Brewfile`
 
-`brew bundle dump --force`
+```sh
+brew bundle dump --force
+```
