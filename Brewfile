@@ -86,7 +86,6 @@ cask "utm"
 cask "visual-studio-code"
 cask "visual-studio-code-insiders"
 cask "vlc"
-cask "webstorm"
 cask "zappy"
 cask "zoom"
 mas "RunCat", id: 1429033973
