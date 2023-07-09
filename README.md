@@ -1,5 +1,7 @@
 # brew-packages
 
+> ⚠️ I've moved this to [dotfiles](https://github.com/connorads/dotfiles)
+
 [@connorads](https://github.com/connorads) favourite [Homebrew](https://brew.sh/) packages 🍺
 
 ## Download `Brewfile`
